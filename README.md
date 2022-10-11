@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/uc?export=download&id=1ZX_10ln1GQ-I4yKoD2nmlzoTOYluLZ4e">
+<img src="./Banner_img.svg">
 
 
 👋 Hi, I’m @jugengawande. I code, design and am fueled by freshly brewed coffee.
