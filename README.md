@@ -1,4 +1,4 @@
-<img src="./Banner_img.svg">
+<img src="./Banner-01.svg">
 
 
 👋 Hi, I’m @jugengawande. I code, design and am fueled by freshly brewed coffee.
